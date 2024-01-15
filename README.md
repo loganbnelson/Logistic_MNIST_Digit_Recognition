@@ -1,4 +1,8 @@
 # Auto_ML_Prediction
-Machine Learning project that takes in one or two csv files by the user, requests specific setting options, and then produces predicted values for a single "Y" column of data.
+This notebook uses the classic [MNIST handwritten digit](http://yann.lecun.com/exdb/mnist/) dataset, which contains digit 0-9 images of size 28*28. This can be used as self contained program for handwritten digit recognition of a file of data or as pieces to be implemented in other code. This is optimized for greyscale digit recognition.
 
-Included is an example output of two histograms. This is an example of predicted model results compared to the train data fed to the program. This is an automated output of the program meant to help check the similarity of the output. If not similar in distribution at all or exactly matching, the model may be under or over fitted.
+Included is the Jupyter version with Markdown and the .py version exported from Jupyter.
+
+Note that any files to be imported are most easily accessed from the same folder as the file, but the user can define the filepath as well.
+
+The next desired update will create an interface for drawing or will be modified to become part of an app designed for use to test handwriting clarity. Example use case: teaching children handwriting skills with direct feedback.
