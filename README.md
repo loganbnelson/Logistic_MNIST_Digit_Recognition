@@ -6,3 +6,5 @@ Included is the Jupyter version with Markdown and the .py version exported from 
 Note that any files to be imported are most easily accessed from the same folder as the file, but the user can define the filepath as well.
 
 The next desired update will create an interface for drawing or will be modified to become part of an app designed for use to test handwriting clarity. Example use case: teaching children handwriting skills with direct feedback.
+
+![image](https://github.com/loganbnelson/Logistic_MNIST_Digit_Recognition/assets/112678186/90b6227e-6bfc-4b2f-8c6b-5f99366ddcb2)
