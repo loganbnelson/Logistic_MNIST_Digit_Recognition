@@ -1,4 +1,4 @@
-# Auto_ML_Prediction
+# Logistic_MNIST_Digit_Recognition
 This notebook uses the classic [MNIST handwritten digit](http://yann.lecun.com/exdb/mnist/) dataset, which contains digit 0-9 images of size 28*28. This can be used as self contained program for handwritten digit recognition of a file of data or as pieces to be implemented in other code. This is optimized for greyscale digit recognition.
 
 Included is the Jupyter version with Markdown and the .py version exported from Jupyter.
